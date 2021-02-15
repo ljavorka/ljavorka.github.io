@@ -1,0 +1,17 @@
+img{
+  width:150px;
+}
+
+section{
+  display:block;
+  width: 200px;
+  text-align: center
+}
+
+div{
+  display: flex;
+}
+
+a{
+  display: block;
+}
